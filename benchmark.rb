@@ -1,3 +1,3 @@
-#puts "benchmark.rb"
-puts "hello world"
+puts "This is a benchmark scrpit."
+puts "Hello world!" 
 
